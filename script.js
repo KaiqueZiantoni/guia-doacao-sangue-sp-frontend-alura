@@ -19,7 +19,9 @@ async function iniciarBusca(){
 
             if (termoBusca.length > 0) {
                 dadosFiltrados = dados.filter(dado =>
-                    dado.nome.toLowerCase().includes(termoBusca)
+                    dado.nome.toLowerCase().includes(termoBusca)||
+                    dado.informacoes.toLowerCase().includes(termoBusca)||
+                    dado.descricao.toLowerCase().includes(termoBusca)
                 );
             }
             reinderizarCards(dadosFiltrados);
@@ -38,4 +40,5 @@ function reinderizarCards(dados){
                 <a href="${dado.link}" target="_blank">Saiba mais</a>`
                 cardContainer.appendChild(article);
     }
+
 }
