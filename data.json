@@ -33,151 +33,152 @@
     "nome": "Critérios Básicos para Doar Sangue",
     "descricao": "Detalhes sobre a faixa etária, peso mínimo e condições gerais de saúde exigidas para se tornar um doador de sangue no estado de São Paulo.",
     "informacoes": "Para doar, é preciso ter entre 16 e 69 anos (menores de 18 precisam de consentimento) e pesar no mínimo 50 kg. O doador deve estar descansado e alimentado.",
-    "link": "http://prosangue.sp.gov.br/artigos/quais_os_requisitos.html"
+    "link": "https://www.prosangue.sp.gov.br/artigos/requisitos_basicos_para_doacao.html"
 
   },
   {
     "nome": "Intervalo Seguro entre Doações",
     "descricao": "Informações essenciais sobre o tempo de espera obrigatório entre uma doação e outra para garantir a saúde do doador e a recuperação do organismo.",
     "informacoes": "Homens podem doar a cada 60 dias (máximo de 4 vezes por ano). Mulheres podem doar a cada 90 dias (máximo de 3 vezes por ano).",
-    "link": "http://prosangue.sp.gov.br/artigos/intervalo_doacao.html"
+    "link": "https://mefact.org/pt/quanto-tempo-deve-passar-entre-duas-doacoes-de-sangue-para-ser-seguro-m17.html"
   },
   {
     "nome": "A Importância do Gesto de Doar",
     "descricao": "Entenda como sua doação única pode salvar múltiplas vidas, sendo essencial para emergências, cirurgias complexas e tratamento de doenças crônicas.",
     "informacoes": "Uma única doação de sangue total pode ser fracionada e beneficiar até quatro pacientes diferentes, sendo vital para manter os estoques em hospitais de São Paulo.",
-    "link": "http://prosangue.sp.gov.br/artigos/importancia_doacao.html"
+    "link": "https://blog.sabin.com.br/saude/qual-a-importancia-da-doacao-de-sangue/"
   },
   {
     "nome": "Conheça os Tipos Sanguíneos",
     "descricao": "Explicação simplificada dos principais grupos sanguíneos (A, B, AB e O) e a regra de compatibilidade universal para transfusões de emergência.",
     "informacoes": "O tipo O Negativo é o doador universal, podendo doar para todos. O AB Positivo é o receptor universal, podendo receber de todos os tipos.",
-    "link": "http://prosangue.sp.gov.br/artigos/tipos_sanguineos.html"
+    "link": "https://www.tuasaude.com/tipos-de-sangue/"
   },
   {
     "nome": "Cuidados Essenciais Pós-Doação",
     "descricao": "Orientações médicas sobre o que fazer e evitar nas primeiras horas após a coleta, visando o bem-estar e a prevenção de reações adversas leves.",
     "informacoes": "Beba bastante líquido, evite esforço físico excessivo e não fume por pelo menos 2 horas após a doação. Caso sinta tontura, sente-se ou deite-se imediatamente.",
-    "link": "http://prosangue.sp.gov.br/artigos/cuidados_pos_doacao.html"
+    "link": "https://prosangue.sp.gov.br/artigos/cuidados_pos-doacao.html"
   },
   {
     "nome": "Mitos e Verdades da Doação de Sangue",
     "descricao": "Esclarecimento de dúvidas comuns, desmistificando crenças populares sobre doação, como o medo de engordar ou ficar fraco após o procedimento.",
     "informacoes": "Doar sangue não engorda, não emagrece e não vicia. Todo material utilizado é descartável, eliminando o risco de contaminação por doenças.",
-    "link": "http://prosangue.sp.gov.br/artigos/mitos_verdades.html"
+    "link": "https://www.cnnbrasil.com.br/saude/veja-mitos-e-verdades-sobre-a-doacao-de-sangue/"
   },
   {
     "nome": "Alimentação Antes da Doação",
     "descricao": "Guia prático sobre o que comer e o que evitar antes de ir ao hemocentro. A alimentação adequada é crucial para a qualidade da sua doação.",
     "informacoes": "É obrigatório estar alimentado. Evite alimentos gordurosos nas 3 horas que antecedem a doação. Se for doar após o almoço, mantenha um intervalo de 2 horas.",
-    "link": "http://prosangue.sp.gov.br/artigos/preparo_doacao.html"
+    "link": "https://ge.globo.com/eu-atleta/nutricao/reportagem/2024/12/02/c-o-que-comer-antes-de-doar-sangue-veja-melhores-opcoes.ghtml"
   },
   {
     "nome": "Doença e Impedimentos Temporários",
     "descricao": "Quais condições de saúde, como gripes, resfriados ou infecções recentes, exigem um período de espera antes que o indivíduo possa doar sangue novamente.",
     "informacoes": "Após quadro gripal ou resfriado leve, o doador deve aguardar 7 dias para doar. Febre acima de 38°C exige suspensão da doação.",
-    "link": "http://prosangue.sp.gov.br/artigos/impedimentos_temporarios.html"
+    "link": "https://www.prosangue.sp.gov.br/artigos/requisitos_basicos_para_doacao.html"
   },
   {
     "nome": "Tatuagens, Piercings e o Prazo de Espera",
     "descricao": "Regras específicas de São Paulo sobre o período de inaptidão para doação após a realização de tatuagens, piercings ou maquiagem definitiva.",
     "informacoes": "É necessário aguardar 12 meses após a realização de tatuagem ou piercing (exceto se o piercing for na cavidade oral ou genital, que inabilita por tempo indeterminado).",
-    "link": "http://prosangue.sp.gov.br/artigos/tatuagem_piercing.html"
+    "link": "https://revista.abrale.org.br/saude/2025/06/quem-tem-tatuagem-e-piercing-pode-doar-sangue-entenda/"
   },
   {
     "nome": "Remédios que Impedem a Doação",
     "descricao": "Lista de classes de medicamentos (como antibióticos e isotretinoína) que requerem suspensão temporária ou permanente da doação de sangue.",
     "informacoes": "O uso de alguns medicamentos para acne (como Isotretinoína) exige a interrupção da doação por 30 dias a 12 meses. Consulte a equipe de triagem para análise do seu caso.",
-    "link": "http://prosangue.sp.gov.br/artigos/medicamentos_proibidos.html"
+    "link": "https://saudelab.com/lista-de-medicamentos-que-nao-pode-doar-sangue/"
   },
   {
     "nome": "Guia do Doador de Primeira Viagem",
     "descricao": "Passos detalhados e o que esperar desde a chegada ao hemocentro até a finalização do procedimento, aliviando a ansiedade do primeiro doador.",
     "informacoes": "O processo inclui cadastro, pré-triagem (peso e pressão), entrevista de triagem, coleta e lanche. A duração total costuma ser de 40 a 60 minutos.",
-    "link": "http://prosangue.sp.gov.br/artigos/passo_a_passo.html"
+    "link": "https://saudelab.com/como-doar-sangue-pela-primeira-vez/"
   },
   {
     "nome": "O Caminho da Bolsa de Sangue",
     "descricao": "Descubra o que acontece com o sangue após a coleta: testes laboratoriais, fracionamento em componentes (plasma, hemácias, plaquetas) e armazenamento seguro.",
     "informacoes": "Após a coleta, o sangue é testado para diversas doenças infecciosas. Em seguida, é separado em seus componentes, que podem ser usados para tratamentos específicos em até 42 dias.",
-    "link": "http://prosangue.sp.gov.br/artigos/processamento_sangue.html"
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/07/08/o-caminho-do-sangue-conheca-as-etapas-pelas-quais-uma-doacao-no-hemorio-passa-ate-salvar-vidas.ghtml"
   },
   {
     "nome": "Diferença entre Doar Sangue e Medula Óssea",
     "descricao": "Esclarecimento fundamental sobre os dois tipos de doação, seus procedimentos e como se cadastrar no Registro Nacional de Doadores Voluntários de Medula Óssea (REDOME).",
     "informacoes": "Doar sangue é um procedimento simples e rápido. O cadastro para doação de medula óssea é feito com a coleta de 5ml de sangue, mas a doação em si só ocorre se houver compatibilidade futura.",
-    "link": "http://prosangue.sp.gov.br/artigos/redome.html"
+    "link": "https://planosdesaudesantacasa.com.br/artigos/doacao-de-sangue-e-medula-ossea"
   },
   {
     "nome": "Tipos Sanguíneos Raros: O que São?",
     "descricao": "Informações sobre grupos sanguíneos com baixa frequência na população, como o Bombay ou o Rh nulo, e a necessidade crítica de doadores compatíveis.",
     "informacoes": "Tipos raros exigem um esforço maior para manter o estoque. Se você possui um tipo raro, sua doação é crucial para pacientes com o mesmo perfil genético.",
-    "link": "http://prosangue.sp.gov.br/artigos/tipos_raros.html"
+    "link": "https://www.portalinsights.com.br/perguntas-frequentes/quais-os-3-tipos-de-sangue-mais-raros"
   },
   {
     "nome": "Teste de Hemoglobina na Triagem",
     "descricao": "A importância do teste rápido de anemia realizado antes da coleta para garantir que o doador possui níveis de ferro adequados para a doação.",
     "informacoes": "A triagem verifica o nível de hemoglobina no sangue do doador. Mulheres devem ter no mínimo 12,5 g/dL e homens no mínimo 13,0 g/dL para serem considerados aptos.",
-    "link": "http://prosangue.sp.gov.br/artigos/anemia_teste.html"
+    "link": "https://www.portalinsights.com.br/perguntas-frequentes/quais-sao-as-perguntas-feitas-na-triagem-de-doacao-de-sangue"
   },
   {
     "nome": "Vantagens de Ser um Doador Regular",
     "descricao": "Benefícios não-monetários para o doador, como o check-up periódico de saúde e a satisfação de contribuir ativamente para a comunidade.",
     "informacoes": "O doador recebe gratuitamente os resultados de testes sorológicos (HIV, Hepatite B e C, Sífilis, etc.) realizados em cada doação, atuando como um monitoramento de saúde.",
-    "link": "http://prosangue.sp.gov.br/artigos/beneficios_doador.html"
+    "link": "https://medprev.online/blog/saude/quais-os-beneficios-em-ser-um-doador-de-sangue/"
   },
   {
     "nome": "Centros de Coleta em São Paulo Capital",
     "descricao": "Lista dos principais postos fixos da Fundação Pró-Sangue na capital paulista, incluindo endereços importantes como o Hospital das Clínicas.",
     "informacoes": "Os principais locais incluem o Posto Clínicas (Av. Dr. Enéas de Carvalho Aguiar, 155), Posto Dante Pazzanese e Posto Regional de Osasco. Verifique os horários de funcionamento no site oficial.",
-    "link": "http://prosangue.sp.gov.br/home/locais_doacao.html"
+    "link": "https://www.prosangue.sp.gov.br/doacao/enderecos.html"
   },
   {
     "nome": "Restrições de Viagem para Doadores",
     "descricao": "Prazos de inaptidão após viajar para regiões com alta prevalência de malária, febre amarela ou outras doenças endêmicas, conforme determinação da ANVISA.",
     "informacoes": "Viagens para áreas endêmicas de malária (dentro ou fora do país) podem impor um período de inaptidão de 1 a 12 meses. Consulte o mapa de áreas de risco antes de doar.",
-    "link": "http://prosangue.sp.gov.br/artigos/viagem_e_doacao.html"
+    "link": "https://www.gazetasp.com.br/gazeta-mais/curiosidades/o-guia-definitivo-para-as-restricoes-de-doacao-de-sangue/1138522/"
   },
   {
     "nome": "Doação por Aférese (Plaquetas e Componentes)",
     "descricao": "Explicação do procedimento de aférese, que permite a coleta seletiva de componentes específicos (como plaquetas), sendo crucial para pacientes oncológicos.",
     "informacoes": "O processo é mais longo (cerca de 90 minutos) e requer veias calibrosas. Permite a coleta de um volume maior de plaquetas, que são rapidamente repostas pelo organismo. O intervalo de doação é menor que o sangue total.",
-    "link": "http://prosangue.sp.gov.br/artigos/aférese_plaquetas.html"
+    "link": "https://www.saude.pr.gov.br/Pagina/Doacao-de-Plaquetas-por-Aferese-Hemepar"
   },
   {
     "nome": "Como Organizar uma Campanha de Doação",
     "descricao": "Instruções e requisitos para empresas, escolas ou grupos comunitários que desejam realizar uma campanha de incentivo à doação em parceria com a Pró-Sangue.",
     "informacoes": "Campanhas requerem agendamento prévio com o serviço de captação do hemocentro, garantindo a logística e a recepção adequada de grandes grupos de doadores.",
-    "link": "http://prosangue.sp.gov.br/artigos/campanhas_doacao.html"
+    "link": "https://voluntariadoempresarial.com.br/7-ideias-para-organizar-campanhas-de-doacao-de-sangue-na-sua-empresa/"
   },
   {
     "nome": "Documentos Necessários para o Cadastro",
     "descricao": "Quais identificações são aceitas e obrigatórias para que o doador possa realizar o cadastro e a triagem no hemocentro de São Paulo.",
     "informacoes": "É indispensável apresentar um documento oficial de identidade com foto, emitido por órgão público e dentro da validade (RG, CNH, Passaporte ou Carteira de Trabalho digital/física).",
-    "link": "http://prosangue.sp.gov.br/artigos/documentos_cadastro.html"
+    "link": "https://www.gov.br/saude/pt-br/campanhas-da-saude/2023/doador-de-sangue/como-se-tornar-um-doador"
   },
   {
     "nome": "Hidratação e a Doação de Sangue",
     "descricao": "O papel fundamental da ingestão de líquidos antes e depois do procedimento para evitar reações adversas e acelerar a recuperação do volume sanguíneo.",
     "informacoes": "Recomenda-se beber água e sucos antes de doar. A hidratação adequada minimiza o risco de queda de pressão e tonturas após a coleta.",
-    "link": "http://prosangue.sp.gov.br/artigos/importancia_hidratacao.html"
+    "link": "https://saude.se.gov.br/hemose-destaca-importancia-da-hidratacao-antes-de-doar-sangue/"
   },
   {
     "nome": "As Etapas da Doação de Sangue",
     "descricao": "Visão geral das cinco fases do processo de doação: recepção, triagem clínica, coleta propriamente dita, repouso e lanche.",
     "informacoes": "O tempo total dedicado à doação, desde a chegada até a saída, é de aproximadamente uma hora, sendo a coleta em si um processo rápido, durando cerca de 10 a 15 minutos.",
-    "link": "http://prosangue.sp.gov.br/artigos/fluxo_doacao.html"
+    "link": "https://minhasaude.proteste.org.br/conheca-as-etapas-da-doacao-de-sangue/"
   },
   {
     "nome": "Vacinação e o Período de Espera",
     "descricao": "Regras de inaptidão temporária após receber vacinas comuns, como gripe, COVID-19, sarampo ou febre amarela, variando conforme o tipo de imunizante.",
     "informacoes": "O tempo de espera após a vacinação varia. Para vacinas de vírus inativado (como a da gripe), geralmente o prazo é de 48 horas. Para vacinas de vírus vivo atenuado (como sarampo ou febre amarela), o prazo pode ser de 4 semanas.",
-    "link": "http://prosangue.sp.gov.br/artigos/vacinas_restricoes.html"
+    "link": "https://cidadereporter.com/doacao-de-sangue-ses-sp-orienta-sobre-intervalo-apos-vacinacao-e-alerta-para-estoque-critico/"
   },
   {
     "nome": "Impacto da Doação na Saúde Pública SP",
     "descricao": "Análise da necessidade contínua de doações para abastecer a rede hospitalar de São Paulo, o maior centro médico da América Latina, e manter a capacidade de resposta em emergências.",
     "informacoes": "A capital paulista necessita de milhares de bolsas por mês. A Pró-Sangue é responsável por grande parte desse abastecimento, sendo crucial a participação da comunidade para evitar a baixa nos estoques críticos.",
-    "link": "http://prosangue.sp.gov.br/artigos/necessidade_estoques.html"
+    "link": "https://pequenoprincipe.org.br/noticia/cultura-de-doacao-impacto-area-saude/"
   }
+
 ]
